@@ -43,7 +43,7 @@ const studentProfile = {
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/vanshikasathish/1447287"
     }
   ],
 
