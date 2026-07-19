@@ -45,6 +45,10 @@ const studentProfile = {
       title: "Finding Patterns with Heatmaps",
       url: "https://rpubs.com/vanshikasathish/1447287"
     }
+     {
+      title: "Exploring TCGA Breast Cancer Clinical Data",
+      url: "https://rpubs.com/vanshikasathish/1447431"
+    }
   ],
 
   /*
@@ -65,7 +69,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "vanshika_sathish.github.io"
     }
   ]
 };
